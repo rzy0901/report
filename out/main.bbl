@@ -1,0 +1,961 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{ISAC}{article}{}
+      \name{author}{7}{}{%
+        {{hash=9419610d270972bdd30e81d791d61b96}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=6854201f8fb8327cb7953f22f7aaf7d7}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Yuanhao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d230f5bace57f343ce3bf660f999e9d7}{%
+           family={Masouros},
+           familyi={M\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ffd0b0c3743e938ccac63525d574f0a0}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bc0630a264eb3faea2ab64023d8dc9a1}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Tony\bibnamedelima Xiao},
+           giveni={T\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=d147b0cce00b122576f734fc8dc462a7}{%
+           family={Eldar},
+           familyi={E\bibinitperiod},
+           given={Yonina\bibnamedelima C.},
+           giveni={Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=973a187737be864f8b544df2c0c16bef}{%
+           family={Buzzi},
+           familyi={B\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{e6abc7dc071dcb4f4c01b0a9de0c0273}
+      \strng{fullhash}{ccbb1e288e34bbc0260547b5b550a26f}
+      \strng{bibnamehash}{2ee9e969126226f802466fb57c8cb02f}
+      \strng{authorbibnamehash}{2ee9e969126226f802466fb57c8cb02f}
+      \strng{authornamehash}{e6abc7dc071dcb4f4c01b0a9de0c0273}
+      \strng{authorfullhash}{ccbb1e288e34bbc0260547b5b550a26f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal on Selected Areas in Communications}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Integrated Sensing and Communications: Towards Dual-functional Wireless Networks for 6G and Beyond}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/JSAC.2022.3156632
+      \endverb
+      \keyw{ISAC}
+    \endentry
+    \entry{TGbf_PAR}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5e102dc8ed9dd09cc62a9cd525c5f7d8}{%
+           family={Claudio},
+           familyi={C\bibinitperiod},
+           given={da\bibnamedelima Silva},
+           giveni={d\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{5e102dc8ed9dd09cc62a9cd525c5f7d8}
+      \strng{fullhash}{5e102dc8ed9dd09cc62a9cd525c5f7d8}
+      \strng{bibnamehash}{5e102dc8ed9dd09cc62a9cd525c5f7d8}
+      \strng{authorbibnamehash}{5e102dc8ed9dd09cc62a9cd525c5f7d8}
+      \strng{authornamehash}{5e102dc8ed9dd09cc62a9cd525c5f7d8}
+      \strng{authorfullhash}{5e102dc8ed9dd09cc62a9cd525c5f7d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE 802.11-19/2103r12}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{802.11 SENS SG Proposed PAR}
+      \field{usera}{EB}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://mentor.ieee.org/802.11/dcn/19/11-19-2103-12-SENS-802-11-sens-sg-proposed-par.docx
+      \endverb
+      \verb{url}
+      \verb https://mentor.ieee.org/802.11/dcn/19/11-19-2103-12-SENS-802-11-sens-sg-proposed-par.docx
+      \endverb
+      \keyw{TGbf_PAR}
+    \endentry
+    \entry{TGbf_Use_Case}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a1d8bb8f9fdfbe50c3d8c3600b576c9c}{%
+           family={Assaf},
+           familyi={A\bibinitperiod},
+           given={Kasher},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{a1d8bb8f9fdfbe50c3d8c3600b576c9c}
+      \strng{fullhash}{a1d8bb8f9fdfbe50c3d8c3600b576c9c}
+      \strng{bibnamehash}{a1d8bb8f9fdfbe50c3d8c3600b576c9c}
+      \strng{authorbibnamehash}{a1d8bb8f9fdfbe50c3d8c3600b576c9c}
+      \strng{authornamehash}{a1d8bb8f9fdfbe50c3d8c3600b576c9c}
+      \strng{authorfullhash}{a1d8bb8f9fdfbe50c3d8c3600b576c9c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE 802.11-20/1712r2}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{WiFi Sensing Uses Cases}
+      \field{usera}{EB}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://mentor.ieee.org/802.11/dcn/20/11-20-1712-02-00bf-wifi-sensing-use-cases.xlsx
+      \endverb
+      \verb{url}
+      \verb https://mentor.ieee.org/802.11/dcn/20/11-20-1712-02-00bf-wifi-sensing-use-cases.xlsx
+      \endverb
+      \keyw{TGbf_Use_Case}
+    \endentry
+    \entry{indoorSAR}{article}{}
+      \name{author}{7}{}{%
+        {{hash=d0848537e66870b582266575f6e00678}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Jiaming},
+           giveni={J\bibinitperiod}}}%
+        {{hash=50663bc3cde84b2e65d5cdb051276f75}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Jiaming},
+           giveni={J\bibinitperiod}}}%
+        {{hash=18f2ca94eab66e99fbcfaca400a36215}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=cfb338236adbef4fec3549e9fc4b3478}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=dccd9ac794abeba8373b17e2544cadba}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod}}}%
+        {{hash=67e9c36fef6ea4addab61a305213f659}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Changzhi},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5c4fc4f3b0b2124eb5ad06c1f7b4af03}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Xiaohua},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{eb5c4b2ec77cf17da9d396a1da04d2db}
+      \strng{fullhash}{7dea76608707624a7f4316b4289fd740}
+      \strng{bibnamehash}{9e0ee137a7efb2e527dd97004be6577c}
+      \strng{authorbibnamehash}{9e0ee137a7efb2e527dd97004be6577c}
+      \strng{authornamehash}{eb5c4b2ec77cf17da9d396a1da04d2db}
+      \strng{authorfullhash}{7dea76608707624a7f4316b4289fd740}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE/MTT-S International Microwave Symposium - IMS}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Full-Coverage Indoor SAR Imaging with a Vehicle-based FMCW Radar System}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{135\bibrangedash 137}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1109/MWSYM.2018.8439145
+      \endverb
+      \keyw{indoorSAR}
+    \endentry
+    \entry{NavigationSAR}{article}{}
+      \name{author}{8}{}{%
+        {{hash=979ff38e99971e3919344c77fd2d12cd}{%
+           family={Tagliaferri},
+           familyi={T\bibinitperiod},
+           given={Dario},
+           giveni={D\bibinitperiod}}}%
+        {{hash=64693579d581e1cf1acbc5a4a66e861a}{%
+           family={Rizzi},
+           familyi={R\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8a0f9ae6c51cf787b03cf95b152e970f}{%
+           family={Nicoli},
+           familyi={N\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=78bbd7a2ccb78b0fc2c499a37d3e5b86}{%
+           family={Tebaldini},
+           familyi={T\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3d189f1f92b9a3ae10e343a5efa028a8}{%
+           family={Russo},
+           familyi={R\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=55335d92624bed8b5d9552b139c11268}{%
+           family={Monti-Guarnieri},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Andrea\bibnamedelima Virgilio},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=de8e8c4d0299c6a170262badf3244ea7}{%
+           family={Prati},
+           familyi={P\bibinitperiod},
+           given={Claudio\bibnamedelima Maria},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2159e08e0fd9c880f752db5eabf95dcd}{%
+           family={Spagnolini},
+           familyi={S\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{dc4d378dc2d778d4696d091db427ebd7}
+      \strng{fullhash}{f3041a2b453b29298c3256f3e86690b0}
+      \strng{bibnamehash}{dfb0a7ad7368611b08a2017c86c1a9b3}
+      \strng{authorbibnamehash}{dfb0a7ad7368611b08a2017c86c1a9b3}
+      \strng{authornamehash}{dc4d378dc2d778d4696d091db427ebd7}
+      \strng{authorfullhash}{f3041a2b453b29298c3256f3e86690b0}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Navigation-Aided Automotive SAR for High-Resolution Imaging of Driving Environments}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{35599\bibrangedash 35615}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2021.3062084
+      \endverb
+      \keyw{NavigationSAR}
+    \endentry
+    \entry{ma2019wifi}{article}{}
+      \name{author}{3}{}{%
+        {{hash=80edfaa47bcba88b5babc0a7f85ed653}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Yongsen},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f2b599ed73f17444e61354d4abd9f26b}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Gang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=012f94009a926d7635da4e74d293389e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shuangquan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{4324a530a1c665009460cb4c9ba83e37}
+      \strng{fullhash}{a123558a80d32ccce373090bbe9092f4}
+      \strng{bibnamehash}{a123558a80d32ccce373090bbe9092f4}
+      \strng{authorbibnamehash}{a123558a80d32ccce373090bbe9092f4}
+      \strng{authornamehash}{4324a530a1c665009460cb4c9ba83e37}
+      \strng{authorfullhash}{a123558a80d32ccce373090bbe9092f4}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Computing Surveys (CSUR)}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{number}{3}
+      \field{title}{WiFi sensing with channel state information: A survey}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{52}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 36}
+      \range{pages}{36}
+      \keyw{ma2019wifi}
+    \endentry
+    \entry{barneto2021millimeter}{article}{}
+      \name{author}{8}{}{%
+        {{hash=b1f37d29fae0153b9771c72ac684b427}{%
+           family={Barneto},
+           familyi={B\bibinitperiod},
+           given={Carlos\bibnamedelima Baquero},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=4287b00381377acbba1d69beacd407c2}{%
+           family={Rastorgueva-Foi},
+           familyi={R\bibinithyphendelim F\bibinitperiod},
+           given={Elizaveta},
+           giveni={E\bibinitperiod}}}%
+        {{hash=09ecec44153c02eb7a11b44d9fe1cf85}{%
+           family={Keskin},
+           familyi={K\bibinitperiod},
+           given={Musa\bibnamedelima Furkan},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=097f251bea002149305194252a561d47}{%
+           family={Riihonen},
+           familyi={R\bibinitperiod},
+           given={Taneli},
+           giveni={T\bibinitperiod}}}%
+        {{hash=11d5aea5517688551dfe60bf9d449ef9}{%
+           family={Turunen},
+           familyi={T\bibinitperiod},
+           given={Matias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6fca2a9d28ef3690557a84d2c1c7474f}{%
+           family={Talvitie},
+           familyi={T\bibinitperiod},
+           given={Jukka},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a36c1075a68dd1b373be829e68bbc8c5}{%
+           family={Wymeersch},
+           familyi={W\bibinitperiod},
+           given={Henk},
+           giveni={H\bibinitperiod}}}%
+        {{hash=90b6d67fc3a7c2bcd41a5d4bbacd4846}{%
+           family={Valkama},
+           familyi={V\bibinitperiod},
+           given={Mikko},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{3ce471a36a4ced1491388169fc04500d}
+      \strng{fullhash}{3c32667d09f2a6bb8cdbe47e69f78547}
+      \strng{bibnamehash}{af434c0f468ea6799e4ce5b668a4333f}
+      \strng{authorbibnamehash}{af434c0f468ea6799e4ce5b668a4333f}
+      \strng{authornamehash}{3ce471a36a4ced1491388169fc04500d}
+      \strng{authorfullhash}{3c32667d09f2a6bb8cdbe47e69f78547}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2102.11593}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Millimeter-wave Mobile Sensing and Environment Mapping: Models, Algorithms and Validation}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \keyw{barneto2021millimeter}
+    \endentry
+    \entry{Precise_PDP_WiFi}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9e65b3f1af89d9e67fc325f5f1eb91a3}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Yaxiong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a040618addb54cb53a2362a85a00a018}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhenjiang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ded0e24163c5484850d9fee2f8d8ffd9}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Mo},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{45ff4340fc2fcaf9fd51a2e18573c862}
+      \strng{fullhash}{2a7200d0189f604bdf384f3fc6c7da03}
+      \strng{bibnamehash}{2a7200d0189f604bdf384f3fc6c7da03}
+      \strng{authorbibnamehash}{2a7200d0189f604bdf384f3fc6c7da03}
+      \strng{authornamehash}{45ff4340fc2fcaf9fd51a2e18573c862}
+      \strng{authorfullhash}{2a7200d0189f604bdf384f3fc6c7da03}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Mobile Computing}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{number}{6}
+      \field{title}{Precise Power Delay Profiling with Commodity Wi-Fi}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{18}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{1342\bibrangedash 1355}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/TMC.2018.2860991
+      \endverb
+      \keyw{Precise_PDP_WiFi}
+    \endentry
+    \entry{zhang2022practical}{article}{}
+      \name{author}{8}{}{%
+        {{hash=66147eb101275d05e96275d6569b6430}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Daqing},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8b7713202a971a205c088bdcb0002a8e}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=302541b2f3dea521d72639cf89abcd46}{%
+           family={Niu},
+           familyi={N\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2568fb417f2c64c04ee8b28f45b1e17a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xuanzhi},
+           giveni={X\bibinitperiod}}}%
+        {{hash=d475549b13d5cd00407c4030d08fbae5}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Fusang},
+           giveni={F\bibinitperiod}}}%
+        {{hash=af8ab3ec395f57452d1d2015390c574f}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=176323252a6fe7e59f6b6211e602172e}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Dajie},
+           giveni={D\bibinitperiod}}}%
+        {{hash=26c9ccfe7773f6546fe3d312024004bb}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{197e863a7eda5493c11cdf05206bcede}
+      \strng{fullhash}{664305edd4ef90ae97b7a283a9d00313}
+      \strng{bibnamehash}{a58b1575064064976f7612217f51a48d}
+      \strng{authorbibnamehash}{a58b1575064064976f7612217f51a48d}
+      \strng{authornamehash}{197e863a7eda5493c11cdf05206bcede}
+      \strng{authorfullhash}{664305edd4ef90ae97b7a283a9d00313}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2204.03535}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Practical Issues and Challenges in CSI-based Integrated Sensing and Communication}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \keyw{zhang2022practical}
+    \endentry
+    \entry{wu2021wifi}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8b7713202a971a205c088bdcb0002a8e}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=536d5bbb06aaa85f72b4565dc8890570}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Youwei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d475549b13d5cd00407c4030d08fbae5}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Fusang},
+           giveni={F\bibinitperiod}}}%
+        {{hash=66147eb101275d05e96275d6569b6430}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Daqing},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{21a750bbee68424cb2dd74537fa36df8}
+      \strng{fullhash}{015a96af3400925ee28effda812ba22c}
+      \strng{bibnamehash}{5056f3788b05ddd5f94b48b43050d784}
+      \strng{authorbibnamehash}{5056f3788b05ddd5f94b48b43050d784}
+      \strng{authornamehash}{21a750bbee68424cb2dd74537fa36df8}
+      \strng{authorfullhash}{015a96af3400925ee28effda812ba22c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CCF Transactions on Pervasive Computing and Interaction}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{WiFi CSI-based device-free sensing: from Fresnel zone model to CSI-ratio model}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \keyw{wu2021wifi}
+    \endentry
+    \entry{SignFi}{article}{}
+      \name{author}{5}{}{%
+        {{hash=80edfaa47bcba88b5babc0a7f85ed653}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Yongsen},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f2b599ed73f17444e61354d4abd9f26b}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Gang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=012f94009a926d7635da4e74d293389e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shuangquan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a1ee4cab11714f30d6348ec877d8ae24}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Hongyang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1d3db3310380597ea69ab36095d8610f}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Woosub},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{4324a530a1c665009460cb4c9ba83e37}
+      \strng{fullhash}{49ae4c18e290a4dcb43ceb495cd58d84}
+      \strng{bibnamehash}{600192a61be4f6405b011658af4c7c18}
+      \strng{authorbibnamehash}{600192a61be4f6405b011658af4c7c18}
+      \strng{authornamehash}{4324a530a1c665009460cb4c9ba83e37}
+      \strng{authorfullhash}{49ae4c18e290a4dcb43ceb495cd58d84}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{SignFi: Sign Language Recognition Using WiFi}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{2}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1145/3191755
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3191755
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3191755
+      \endverb
+      \keyw{SignFi}
+    \endentry
+    \entry{bro1999fast}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=6bd7fa83e276d2a1300bd6ab3b5c19d4}{%
+           family={Bro},
+           familyi={B\bibinitperiod},
+           given={Rasmus},
+           giveni={R\bibinitperiod}}}%
+        {{hash=53ce1027f1070eeaa328055cf8bb0f0b}{%
+           family={Sidiropoulos},
+           familyi={S\bibinitperiod},
+           given={ND},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b55ef03f4557e90f94dd88376a4bca8c}{%
+           family={Giannakis},
+           familyi={G\bibinitperiod},
+           given={GB},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{08065b2bb2cc9065b7dc6d8d13c69d40}
+      \strng{fullhash}{7f959971ab1ffddc54072628029f3098}
+      \strng{bibnamehash}{7f959971ab1ffddc54072628029f3098}
+      \strng{authorbibnamehash}{7f959971ab1ffddc54072628029f3098}
+      \strng{authornamehash}{08065b2bb2cc9065b7dc6d8d13c69d40}
+      \strng{authorfullhash}{7f959971ab1ffddc54072628029f3098}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Int. Workshop Independent Component and Blind Signal Separation Anal}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{A fast least squares algorithm for separating trilinear mixtures}
+      \field{usera}{C}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{pages}{11\bibrangedash 15}
+      \range{pages}{5}
+      \keyw{bro1999fast}
+    \endentry
+    \entry{TPF}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d8f2d743cfe2036ac013119945b0cfcc}{%
+           family={张胜男},
+           familyi={张\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{d8f2d743cfe2036ac013119945b0cfcc}
+      \strng{fullhash}{d8f2d743cfe2036ac013119945b0cfcc}
+      \strng{bibnamehash}{d8f2d743cfe2036ac013119945b0cfcc}
+      \strng{authorbibnamehash}{d8f2d743cfe2036ac013119945b0cfcc}
+      \strng{authornamehash}{d8f2d743cfe2036ac013119945b0cfcc}
+      \strng{authorfullhash}{d8f2d743cfe2036ac013119945b0cfcc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{lansortorder}{1}
+      \field{title}{基于平行因子分析的阵列参数估计（硕士学位论文，南京航空航天大学）}
+      \field{usera}{J}
+      \field{userd}{chinese}
+      \field{userf}{chinese}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD2009&filename=2009054201.nh
+      \endverb
+      \verb{url}
+      \verb https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD2009&filename=2009054201.nh
+      \endverb
+      \keyw{TPF}
+    \endentry
+    \entry{kruskal1989rank}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=569f9ff2dff516524ca08370ba81ba29}{%
+           family={Kruskal},
+           familyi={K\bibinitperiod},
+           given={Joseph\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{569f9ff2dff516524ca08370ba81ba29}
+      \strng{fullhash}{569f9ff2dff516524ca08370ba81ba29}
+      \strng{bibnamehash}{569f9ff2dff516524ca08370ba81ba29}
+      \strng{authorbibnamehash}{569f9ff2dff516524ca08370ba81ba29}
+      \strng{authornamehash}{569f9ff2dff516524ca08370ba81ba29}
+      \strng{authorfullhash}{569f9ff2dff516524ca08370ba81ba29}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Multiway data analysis}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Rank, decomposition, and uniqueness for 3-way and N-way arrays}
+      \field{usera}{G}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{pages}{7\bibrangedash 18}
+      \range{pages}{12}
+      \keyw{kruskal1989rank}
+    \endentry
+    \entry{COMFAC_matlab}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e5752f89bb73e29ae9ecd4156c9e4502}{%
+           family={Sidiropoulos},
+           familyi={S\bibinitperiod},
+           given={Nikos\bibnamedelima D.},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{e5752f89bb73e29ae9ecd4156c9e4502}
+      \strng{fullhash}{e5752f89bb73e29ae9ecd4156c9e4502}
+      \strng{bibnamehash}{e5752f89bb73e29ae9ecd4156c9e4502}
+      \strng{authorbibnamehash}{e5752f89bb73e29ae9ecd4156c9e4502}
+      \strng{authornamehash}{e5752f89bb73e29ae9ecd4156c9e4502}
+      \strng{authorfullhash}{e5752f89bb73e29ae9ecd4156c9e4502}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{COMFAC: Matlab code for LS fitting of the complex PARAFAC model in 3-D}
+      \field{usera}{EB}
+      \field{userd}{english}
+      \field{userf}{english}
+      \verb{urlraw}
+      \verb http://www.ece.umn.edu/~nikos/comfac.m
+      \endverb
+      \verb{url}
+      \verb http://www.ece.umn.edu/~nikos/comfac.m
+      \endverb
+      \keyw{COMFAC_matlab}
+    \endentry
+    \entry{wlantoolbox}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2d2b0d998977e6379aad61f1b56ac3c1}{%
+           family={MathWorks},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{fullhash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{bibnamehash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{authorbibnamehash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{authornamehash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{authorfullhash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{WLAN Toolbox}
+      \field{usera}{EB}
+      \field{userd}{english}
+      \field{userf}{english}
+      \verb{urlraw}
+      \verb https://www.mathworks.com/help/wlan
+      \endverb
+      \verb{url}
+      \verb https://www.mathworks.com/help/wlan
+      \endverb
+      \keyw{wlantoolbox}
+    \endentry
+    \entry{ong2011ieee}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=139b74cea02a247b7c3ffde00ebd01fc}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={Eng\bibnamedelima Hwee},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c63a41ab59ab2e42699286b71b4965ff}{%
+           family={Kneckt},
+           familyi={K\bibinitperiod},
+           given={Jarkko},
+           giveni={J\bibinitperiod}}}%
+        {{hash=201c9163a46c2447477fb524bdc1718c}{%
+           family={Alanen},
+           familyi={A\bibinitperiod},
+           given={Olli},
+           giveni={O\bibinitperiod}}}%
+        {{hash=c5b1aed9f1a81c3a218a5f588d7279e2}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=face94855c7de3329062eff72d95c6f2}{%
+           family={Huovinen},
+           familyi={H\bibinitperiod},
+           given={Toni},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a6c6e3da52b1e67dd134a9df6c99af12}{%
+           family={Nihtilä},
+           familyi={N\bibinitperiod},
+           given={Timo},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a21a44267c019904116880f88767838c}
+      \strng{fullhash}{db98bdd61f5e370325f7b0b60c9efaf0}
+      \strng{bibnamehash}{512ed13cc98684d8e1b6cf3432f412d0}
+      \strng{authorbibnamehash}{512ed13cc98684d8e1b6cf3432f412d0}
+      \strng{authornamehash}{a21a44267c019904116880f88767838c}
+      \strng{authorfullhash}{db98bdd61f5e370325f7b0b60c9efaf0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2011 IEEE 22nd International Symposium on Personal, Indoor and Mobile Radio Communications}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{IEEE 802.11 ac: Enhancements for very high throughput WLANs}
+      \field{usera}{C}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{849\bibrangedash 853}
+      \range{pages}{5}
+      \keyw{ong2011ieee}
+    \endentry
+    \entry{perahia2013next}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f425025a0039ff889198664c553e60ef}{%
+           family={Perahia},
+           familyi={P\bibinitperiod},
+           given={Eldad},
+           giveni={E\bibinitperiod}}}%
+        {{hash=2020b512b0478f65f13db800810ef5d4}{%
+           family={Stacey},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge university press}%
+      }
+      \strng{namehash}{b78e869f74b144a00dcf1c431c23cbfd}
+      \strng{fullhash}{33c921dd0de91082e1583853320f92dd}
+      \strng{bibnamehash}{33c921dd0de91082e1583853320f92dd}
+      \strng{authorbibnamehash}{33c921dd0de91082e1583853320f92dd}
+      \strng{authornamehash}{b78e869f74b144a00dcf1c431c23cbfd}
+      \strng{authorfullhash}{33c921dd0de91082e1583853320f92dd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Next generation wireless LANs: 802.11 n and 802.11 ac}
+      \field{usera}{M}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \keyw{perahia2013next}
+    \endentry
+    \entry{fuyu}{online}{}
+      \list{language}{1}{%
+        {english}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{usera}{EB}
+      \field{userd}{english}
+      \verb{urlraw}
+      \verb https://www.fuyuautomation.com
+      \endverb
+      \verb{url}
+      \verb https://www.fuyuautomation.com
+      \endverb
+      \keyw{fuyu}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
