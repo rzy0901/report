@@ -2,7 +2,7 @@
 \subsection{实验设置}
 本文基于AD9361软件无线电开发板，以及数控滑轨实现了一个简单的基于CSI的成像系统。
 \begin{itemize}
-  \item 利用MATLAB中的WLAN toolbox\cite{wlantoolbox}产生一段IEEE 802.11ax\cite{ong2011ieee}中的"空数据包"（NDP: Null Data Packet）波形\cite{perahia2013next}，再经过AD9361平台发送和接收信号。
+  \item 利用MATLAB中的WLAN toolbox\cite{wlantoolbox}产生一段IEEE 802.11ac\cite{ong2011ieee}中的"空数据包"（NDP: Null Data Packet）波形\cite{perahia2013next}，再经过AD9361平台发送和接收信号。
   \item 通过数控滑轨搭载接收天线移动，模拟一个巨大的接收天线阵列。（需要注意的是，为了便于自动化的测试，本实验实现了对福誉科技数控轨道\cite{fuyu}的简单MATLAB驱动。）
   \item （Channel Sounding）通过WLAN toolbox对接收基带信号处理（移除循环前缀、粗/细频偏估计等），再通过发射机发送的NDP信号中的长训练序列（L-LTF: Legacy-Long Training Field）信号做信道估计，进而得到CSI\cite{ma2019wifi}\cite{perahia2013next}。
 \end{itemize}
