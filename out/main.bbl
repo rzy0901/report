@@ -352,6 +352,51 @@
       \range{pages}{36}
       \keyw{ma2019wifi}
     \endentry
+    \entry{yang2022hybrid}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4656453b716273b4ea07ab731e9b6dd5}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c824e6070f31269885a0497b5041aab6}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Chao-Kai},
+           giveni={C\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=c59d8dd54aa89c2a33d932d96e6f4bbd}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Shi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{4f806f1b01fa0553a97e675da691e0a7}
+      \strng{fullhash}{8f30d85b569851749db9d698f04e1a4e}
+      \strng{bibnamehash}{8f30d85b569851749db9d698f04e1a4e}
+      \strng{authorbibnamehash}{8f30d85b569851749db9d698f04e1a4e}
+      \strng{authornamehash}{4f806f1b01fa0553a97e675da691e0a7}
+      \strng{authorfullhash}{8f30d85b569851749db9d698f04e1a4e}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal on Selected Areas in Communications}
+      \field{langid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Hybrid Active and Passive Sensing for SLAM in Wireless Communication Systems}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \keyw{yang2022hybrid}
+    \endentry
     \entry{barneto2021millimeter}{article}{}
       \name{author}{8}{}{%
         {{hash=b1f37d29fae0153b9771c72ac684b427}{%
@@ -404,8 +449,8 @@
       \strng{authorbibnamehash}{af434c0f468ea6799e4ce5b668a4333f}
       \strng{authornamehash}{3ce471a36a4ced1491388169fc04500d}
       \strng{authorfullhash}{3c32667d09f2a6bb8cdbe47e69f78547}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:2102.11593}
@@ -785,8 +830,8 @@
       \strng{authorbibnamehash}{e5752f89bb73e29ae9ecd4156c9e4502}
       \strng{authornamehash}{e5752f89bb73e29ae9ecd4156c9e4502}
       \strng{authorfullhash}{e5752f89bb73e29ae9ecd4156c9e4502}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
