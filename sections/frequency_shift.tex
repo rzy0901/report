@@ -14,7 +14,7 @@
   \item （类似SAR的情形）这种频偏的情形与我们后续实测时利用轨道移动模拟天线阵列一致，信号到达阵列上每一个点的频偏不一致。
   \begin{align}
     & \text{（情形一）}\quad \tilde{\boldsymbol{y}} = \boldsymbol{y}e^{-j\theta_{\text{offset}}} \nonumber \\
-    &= \boldsymbol{y} \odot \left[e^{-j\left\{-j2\pi f[\theta_{\text{SFO},1}+\theta_{\text{PDD},1}]+2\pi \theta_{\text{CFO},1}\right\}},\cdots,e^{-j\left\{-j2\pi f[\theta_{\text{SFO},N}+\theta_{\text{PDD},N}]+2\pi \theta_{\text{CFO},N}\right\}}\right]
+    &= \boldsymbol{y} \odot \left[e^{-j\left\{-j2\pi f[\theta_{\text{SFO},1}+\theta_{\text{PDD},1}]+2\pi \theta_{\text{CFO},1}\right\}},\cdots,e^{-j\left\{-j2\pi f[\theta_{\text{SFO},N}+\theta_{\text{PDD},N}]+2\pi \theta_{\text{CFO},N}\right\}}\right]^T
     \text{。}
     \label{情形一}
   \end{align}
